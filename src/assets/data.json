@@ -241,5 +241,9 @@
   ],
   "resume": {
     "URL": "URL"
+  },
+  "logo": {
+    "light": "https://raw.githubusercontent.com/fikretellek/MyPortfolio/main/src/assets/logo-white.png",
+    "dark": "url"
   }
 }

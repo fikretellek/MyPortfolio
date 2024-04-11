@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  position: fixed;
+  z-index: 3;
+  width: calc(100vw - 40px);
+  margin: 20px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 10px;
+  height: 60px;
+}
+#logo-container {
+  height: inherit;
+  position: relative;
+  display: inline-block;
+}
+
+#logo-container::after {
+  content: "FE";
+  position: absolute;
+  right: 10px;
+  bottom: 5px;
+  align-items: center;
+  color: black;
+  font-size: 1.5em;
+  font-weight: 300;
+  z-index: 2;
+}
+
+.logo {
+  height: inherit;
+  z-index: 2;
+}
+
+#name-logo {
+  font-size: 1.5em;
+  font-weight: 300;
+  margin-bottom: 5px;
+  z-index: 2;
+  transition: 0.3s ease-out;
+}
+
+#name-logo.active {
+  color: black;
+  transition: 0.3s ease-out 0.1s;
+}

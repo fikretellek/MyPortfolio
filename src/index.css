@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+#root {
+  height: 100%;
+  width: 100%;
+}

@@ -1,0 +1,245 @@
+{
+  "personalInfo": {
+    "siteName": "PORTFOLIO",
+    "name": "Fikret",
+    "surname": "Ellek"
+  },
+  "about": [
+    {
+      "title": "Personal Statement",
+      "texts": [
+        "As a creative and innovative software developer, I am well versed in technology and writing codes to create solutions for systems that are reliable and efficient. I elevate the performance through softwares by self learning and using the skills I already obtained through my software engineering bootcamp. The importance of providing clear and concise information coincides with requiring excellent oral, coding and written communication skills which I obtained. I am highly skilled in full-stack development with experience in both front-end and back-hand technologies. My experience in architecture allows me to showcase my creativity and strengthen my user-friendly designs. With my previous background and experiences combining continuous learning and problem solving skills it has ensured that I have advanced my knowledge. This is something that I will continue to progress further through self development and any training and experience if required for the job. I have great enthusiasm towards my work and take pride in making sure that every task is completed under excellent review. Understanding the importance of keeping all customers satisfied. I have been and will continue to go above and beyond for all work endeavors."
+      ]
+    },
+    {
+      "title": "Background",
+      "texts": [
+        "I come from architecture background with 2 years of experience. Architecture have been my passion since I was a little kid. Building complex structures with smaller and simpler components, creating places and tools for world's best give me fulfillment that I need from a job. My professional ethics are extremely strong due to the education I received. I did my best within the limits given to me by my skills and ethics for the benefit of the customers I worked for, and the feedback I received was always positive. I have completed successful projects by understanding my customers' ideas and perspectives by empathizing with them, and then combining their ideas with the knowledge and creative talent I have acquired so far. I found software engineering similar to architecture. In today's age of technology, where every profession evolves with technology, I could not help but find myself in this sector. I believe with my architectural background, I bring high valued transferable skills to the table. "
+      ]
+    },
+    {
+      "title": "Interests",
+      "list": [
+        "Traveling: Exploring different cultures, architectures, and technologies around the world.",
+        "Art and Design: Appreciating various forms of art, such as painting, sculpture, and graphic design.",
+        "Reading and Writing: Consuming books on architecture, technology, or literature, as well as writing blogs or articles.",
+        "Community Involvement: Volunteering for community projects or participating in local events.",
+        "Networking and Professional Development: Attending industry conferences, meetups, and workshops to stay updated on trends."
+      ]
+    },
+    {
+      "title": "Hobbies",
+      "list": [
+        "Outdoor Activities: Engaging in activities like hiking, camping, or gardening.",
+        "Music and Performing Arts: Enjoying music, attending concerts, or participating in theater productions.",
+        "Fitness and Sports: Maintaining a regular exercise routine or participating in team sports.",
+        "Cooking and Culinary Exploration: Experimenting with different cuisines and cooking techniques.",
+        "Tech Gadgets and DIY Projects: Exploring new technologies, tinkering with gadgets, or building DIY projects."
+      ]
+    }
+  ],
+  "work": [
+    {
+      "projectName": "projectName",
+      "displayURL": "projectURL",
+      "summary": "projectSummary",
+      "skillsUsed": ["skill", "skill", "skill", "skill", "skill", "skill", "skill"]
+    },
+    {
+      "projectName": "projectName",
+      "displayURL": "projectURL",
+      "summary": "projectSummary",
+      "skillsUsed": ["skill", "skill", "skill", "skill", "skill", "skill", "skill"]
+    },
+    {
+      "projectName": "projectName",
+      "displayURL": "projectURL",
+      "summary": "projectSummary",
+      "skillsUsed": ["skill", "skill", "skill", "skill", "skill", "skill", "skill"]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "subTitle": "CodeYourFuture",
+      "date": { "start": "08/2023", "end": "05/2024" },
+      "texts": [
+        "After completing the CodeYourFuture bootcamp, I've mastered HTML, CSS, and JavaScript, along with React for creating responsive web designs. Additionally, I've gained proficiency in Node.js and Express.js for building robust backend solutions. My skills extend to Git and npm for effective collaboration and package management. I excel in testing, debugging, and database management, ensuring high-quality code and efficient data handling. Committed to continuous learning, I'm eager to contribute to impactful projects while fostering teamwork and collaboration."
+      ],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ],
+      "list": ["skill", "skill", "skill", "skill", "skill", "skill", "skill"]
+    },
+    {
+      "title": "Architect",
+      "subTitle": "Self Practice",
+      "date": { "start": "08/2023", "end": "02/2022" },
+      "texts": [
+        "As a Freelance Architect, I autonomously managed projects from inception to completion, ensuring precision within timelines and budgets. By engaging clients directly, I fostered strong relationships, tailoring architectural solutions to their visions. I led the design phase, refining concepts to align with project objectives. Expertise in project management allowed me to oversee all aspects, from coordinating workers to ensuring regulatory compliance. With diverse projects including domestic buildings, renovations, and commercial spaces, I showcased adaptability and consistently delivered results exceeding client expectations."
+      ],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ],
+      "list": ["skill", "skill", "skill", "skill", "skill", "skill", "skill"]
+    },
+    {
+      "title": "Architect - Site Manager",
+      "subTitle": "3H Precast",
+      "date": { "start": "06/2021", "end": "02/2022" },
+      "texts": [
+        "As the Site Architect at Istanbul's International Finance Center Building, I ensured smooth collaboration with the construction firm. Integrating GRC façade designs into project specs, I maintained architectural integrity. Serving as a liaison between 3H Precast and construction, I facilitated communication. Supervising two foremen and coordinating four crews, totaling 40 workers, I oversaw efficient GRC façade installation. Implementing a tracking system for GRC units, I managed production and site storage, ensuring precise installation and meeting timelines. Collaborating with various construction entities, I optimized project coexistence, fostering a streamlined work environment for enhanced efficiency."
+      ],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ],
+      "list": ["skill", "skill", "skill", "skill", "skill", "skill", "skill"]
+    },
+    {
+      "title": "Inter Architect",
+      "subTitle": "Ozbersan Construction",
+      "date": { "start": "06/2020", "end": "09/2020" },
+      "texts": [
+        "During my internship at a construction company in Istanbul, I worked on restoration projects in historic sites like Hagia Sophia and Ottoman madrasahs. My focus was on restoring Hagia Sophia's north-eastern under-dome arch wall and improving the garden area. This experience deepened my understanding of preserving cultural heritage."
+      ],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ],
+      "list": [
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill",
+        "skill"
+      ]
+    },
+    {
+      "title": "Inter Architect",
+      "subTitle": "Gonul Architecture",
+      "date": { "start": "06/2018", "end": "09/2018" },
+      "texts": [
+        "During my office internship, I engaged in hospital and villa-type housing projects, focusing on design and technical drawing. Notably, I actively contributed to 3D visualization and plan solutions throughout the entire process of the Yalova State Hospital project."
+      ],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ],
+      "list": ["skill", "skill", "skill", "skill", "skill", "skill", "skill"]
+    }
+  ],
+  "education": [
+    {
+      "title": "Software Engineering",
+      "subTitle": "CodeYourFuture",
+      "degreeType": "Bootcamp",
+      "date": { "start": "01/02/2021", "end": "01/02/2021" },
+      "degreeScore": "Successful",
+      "texts": ["lorem"],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ]
+    },
+    {
+      "title": "QA Engineering Bootcamp",
+      "subTitle": "Cydeo",
+      "degreeType": "Bootcamp",
+      "date": { "start": "01/02/2021", "end": "01/02/2021" },
+      "degreeScore": "Successful",
+      "texts": ["lorem"],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ]
+    },
+    {
+      "title": "Architecture",
+      "subTitle": "Kocaeli University",
+      "degreeType": "Bachelor's Degree",
+      "date": { "start": "01/02/2021", "end": "01/02/2021" },
+      "degreeScore": "2.8/4",
+      "texts": ["lorem"],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ]
+    },
+    {
+      "title": "Architecture",
+      "subTitle": "Bologna University",
+      "degreeType": "Erasmus +",
+      "date": { "start": "01/02/2021", "end": "01/02/2021" },
+      "degreeScore": "3.2/4",
+      "texts": ["lorem"],
+      "images": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+        "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+        "https://static.vecteezy.com/system/resources/thumbnails/025/284/015/small_2x/close-up-growing-beautiful-forest-in-glass-ball-and-flying-butterflies-in-nature-outdoors-spring-season-concept-generative-ai-photo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG7hzC9BnJVeut4DEzftfpB4DN-MHSDZ5pM101y1LSQ&s",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_640.jpg"
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "email": "fikretellek@icloud.com",
+      "phone": "+4407825795724",
+      "linkedIn": "https://www.linkedin.com/in/fikretellek/",
+      "instagram": "https://www.instagram.com/fikretellek/"
+    }
+  ],
+  "resume": {
+    "URL": "URL"
+  }
+}
